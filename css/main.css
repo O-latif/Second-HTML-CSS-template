@@ -225,6 +225,9 @@ body {
 	.landing .text .content p {
 		line-height: 1.8;
 	}
+	.landing .text .content h2 {
+	    margin: 10px 0 20px 0;
+	}
 }
 .landing .overlay {
 	position: absolute;
